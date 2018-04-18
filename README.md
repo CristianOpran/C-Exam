@@ -16,4 +16,4 @@ Clone and open the directory.
 
 ## License
 
-[MIT © Cristian Opran.](https://github.com/cristianopran/get_next_line/blob/master/LICENSE)
+[MIT © Cristian Opran.](https://github.com/CristianOpran/C-Exam-Alone-In-The-Dark/blob/master/LICENSE)
